@@ -1,3 +1,15 @@
+# Pubg Api
+
+This project is intended to be used by pubs all across the world, the goal is to handle stock, order beverages and more soon !
+
+## Setup project
+
+- Make sure you have `Docker` installed
+- Run `docker compose up --build` at project root
+- You can go on `https://localhost` to navigate through the API
+
+## The framework we used
+
 <h1 align="center"><a href="https://api-platform.com"><img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue.png" alt="API Platform" width="250" height="250"></a></h1>
 
 API Platform is a next-generation web framework designed to easily create API-first projects without compromising extensibility
@@ -37,10 +49,6 @@ It means that you can:
 * Reuse **all your Symfony and JavaScript skills**, and benefit from the incredible amount of documentation available.
 * Enjoy the popular [Doctrine ORM](https://www.doctrine-project.org/projects/orm.html) (used by default, but fully optional:
   you can use the data provider you want, including but not limited to MongoDB and Elasticsearch)
-
-## Install
-
-[Read the official "Getting Started" guide](https://api-platform.com/docs/distribution/).
 
 ## Credits
 
